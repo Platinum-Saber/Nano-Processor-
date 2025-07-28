@@ -1,0 +1,20 @@
+Initially display will be zero. Next sum of 1 and 2 will be shown in the display.
+3 is expected to be displayed. 
+Output will be stored in register 7.
+
+LED 0, LED 1, LED 2, LED 3 will shows the output came from R7.
+
+Next the difference of 5 and 3 will be stored in register 7.
+Output 2 is expected to be displayed.
+
+Smaller, Equal, Greater will be shown by LED 08, LED 09 and LED 10.
+
+Zero and Overflow will be shown by LED 14, LED 15 .
+
+negative also represent in overflow LED 15.
+
+Reset operation will be handle by the push button btnC.
+
+Reset button will start the operation from 0.
+
+

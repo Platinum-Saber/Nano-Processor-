@@ -1,0 +1,32 @@
+# Vivado files
+*.jou
+*.log
+*.debug
+*.str
+*.backup.*
+vivado_pid*.debug
+vivado_pid*.str
+
+# Cache and temporary files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Bitstream files (optional - uncomment if you don't want to include them)
+# *.bit
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.tmp
+*~
