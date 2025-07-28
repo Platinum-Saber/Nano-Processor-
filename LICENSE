@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+ACADEMIC USE NOTICE:
+This project was developed as part of academic coursework for Computer 
+Organization and Digital Design. While the MIT License grants broad permissions
+for use and modification, users are encouraged to:
+
+1. Maintain proper attribution when using this work for educational purposes
+2. Understand and comply with their institution's academic integrity policies
+3. Use this project as a learning reference rather than direct submission
+4. Cite this work appropriately in academic contexts
+
+The author encourages learning from this implementation while emphasizing the
+importance of academic honesty and original work in educational settings.
