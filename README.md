@@ -139,7 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🎓 Academic Context
 
 **Course**: Computer Organization and Digital Design  
-**Institution**: University of Moratuwa 
+**Institution**: University of Moratuwa <br/>
 **Semester**: SEM 1  
 **Group**: Group 34
 
